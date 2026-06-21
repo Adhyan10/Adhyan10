@@ -25,3 +25,10 @@ CS Student | Learning DSA & System Design | Java · SQL · JavaScript · React �
 [![](https://komarev.com/ghpvc/?username=Adhyan10&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adhyan10/Adhyan10/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adhyan10/Adhyan10/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Adhyan10/Adhyan10/output/github-snake-light.svg">
+</picture>
